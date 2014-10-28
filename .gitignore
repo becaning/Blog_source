@@ -1,6 +1,6 @@
-*
-!content/
-!content/*
-!Mtheme/
-!Mtheme/*
-!.gitignore
+*.pyc
+cache/
+*.pid
+output/
+develop_server.sh
+Mtheme/
