@@ -1,7 +1,7 @@
 Title: Linux磁盘管理
 Date: 2014-05-16 13:14
 Tags: disk
-category: blog
+category: Linux
 
 一、磁盘基本知识
 磁盘的基本结构如图

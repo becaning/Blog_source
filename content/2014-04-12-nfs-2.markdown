@@ -1,7 +1,7 @@
 Title: 一步步搭建NFS服务（2）------安装和配置  
 Date: 2014-04-12 06:14
 Tags: nfs
-category: blog
+category: Linux  
   
 ###一、需要安装的软件包  
   

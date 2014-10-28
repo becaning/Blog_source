@@ -1,7 +1,7 @@
 Title: 重新开始更新博客啦
 Date: 2014-09-12 18:39
 Tags: life
-Category: blog
+Category: Life
 
 开始更新博客啦  
 ---------------

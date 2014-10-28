@@ -1,7 +1,7 @@
 Title: Linux软件包管理之源码编译安装
 Date: 2014-05-17 12:01
 Tags: soft-management
-category: blog
+category: Linux
 
 环境  
 <code>

@@ -1,7 +1,7 @@
 Title: VIM小技巧  
 Date: 2014-04-12 06:51
 Tags: vim   
-category: blog
+category: vim
 
 **本文收录我平时使用VIM是学习到的小技巧，持续更新**  
 **本文是持续更新的，所列出的条目没有先后难易之分**  

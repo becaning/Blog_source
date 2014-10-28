@@ -1,7 +1,7 @@
 Title: BASH命令行快捷键  
 Date: 2014-05-17 03:39
 Tags: bash
-category: blog
+category: Linux
 
 ###生活在 Bash shell 中，熟记以下快捷键，将极大的提高你的命令行操作效率。  
   

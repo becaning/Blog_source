@@ -1,7 +1,7 @@
 Title: 从源码安装ipython
 Date: 2014-05-22 09:39
 Tags: ipython 
-category: blog
+category: python  
 
 ##1、什么是ipython?  
 ipython是一款功能增强的Python交互式shell环境，和Python自带的交互式命令行环境差不多，只是多了一些额外功能，如Tab补全等。  

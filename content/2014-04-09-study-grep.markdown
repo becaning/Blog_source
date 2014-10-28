@@ -1,7 +1,7 @@
 Title: grep的基本使用和常见参数    
 Date: 2014-04-09 13:14
 Tags: grep
-category: blog
+category: Linux  
   
 写在前面：本文着重介绍grep的使用方法以及其各参数的使用，不介绍正则表达式的内容。  
 #What is grep?  

@@ -1,7 +1,7 @@
 Title: Bash脚本编程  
 Date: 2014-09-13 23:50
 Tags: shell 
-Category: blog
+Category: Linux
 
 
 Bash脚本之变量  

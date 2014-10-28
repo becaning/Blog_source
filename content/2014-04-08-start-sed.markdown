@@ -1,7 +1,7 @@
 Title: 初学sed  
 Date: 2014-04-08 22:41
 Tags: sed  
-category: blog
+category: Linux
   
 #1、什么是sed。  
 linux用三大文本处理利器：grep，sed，awk。  

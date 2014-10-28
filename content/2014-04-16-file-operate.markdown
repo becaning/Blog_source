@@ -1,7 +1,7 @@
 Title: 文件日常操作  
 Date: 2014-04-16 01:18
-Tags: linux 
-category: blog
+Tags: file
+category: Linux
 
 ###一、linux的文件的分类  
 文件类型:  表示符号  
