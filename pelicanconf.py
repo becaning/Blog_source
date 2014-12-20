@@ -11,7 +11,8 @@ PATH = 'content'
 
 #==========THEME===============
 THEME = 'Mtheme'
-THEMECOLOR = 'united'
+#THEMECOLOR = 'united'
+THEMECOLOR = 'slate'
 
 #==========TIMEZONE===============
 TIMEZONE = 'Asia/Shanghai'
