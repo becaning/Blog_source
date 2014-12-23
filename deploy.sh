@@ -2,9 +2,13 @@
 
 outputdir='./output'
 
-cd outputdir
-touch CANME
-echo 'becaning'>CANME
+rm $outputdir/* -rf
+
+pelican content/
+
+cd $outputdir
+touch CNAME
+echo 'becaning.com'>CNAME
 
 git add .
 git commit -m'deploy to Github Pages'

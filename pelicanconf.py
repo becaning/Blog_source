@@ -11,14 +11,18 @@ PATH = 'content'
 
 #==========THEME===============
 THEME = 'Mtheme'
-#THEMECOLOR = 'united'
-THEMECOLOR = 'slate'
+
+#THEMECOLOR = '[united | slate | cosmo | cyborg | darkly | flatly | journal | sandstone]'
+THEMECOLOR = 'flatly'
 
 #==========TIMEZONE===============
 TIMEZONE = 'Asia/Shanghai'
 LOCALE = 'zh_CN.UTF-8'
 
 DEFAULT_LANG = u'en'
+
+#=======CONTENT==========
+IGNORE_FILES = ['*.i.*','*.swp']
 
 
 #==========多说评论系统===============
