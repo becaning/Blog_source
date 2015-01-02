@@ -1,13 +1,13 @@
 Title: 用virtualenv搭建Python虚拟环境   
-Date: 2014-12-22 21:01     
+Date: 2014-12-22 21:01   
 Tags: virtualenv   
-category: python         
+category: python   
    
    
 一、Python虚拟环境   
 ==============   
    
-我们在用Python开发时，不同的项目可能序号不同的开发环境。比如我们一个项目用的是`Django 1.5`，而另一个项目用的是`Django 1.6`，这个时候就必须要每个项目自己拥有一个独立的环境，为了开发方便，总不能用两台电脑吧，这时怎么办呢，OK，virtualenv可以搞定。   
+我们在用Python开发时，不同的项目可能需要不同的开发环境。比如我们一个项目用的是`Django 1.5`，而另一个项目用的是`Django 1.6`，这个时候就必须要每个项目自己拥有一个独立的环境，为了开发方便，总不能用两台电脑吧，这时怎么办呢，OK，virtualenv可以搞定。   
    
    
 二、Virtualenv   
@@ -71,9 +71,9 @@ Options:
    
 ```   
    
-
-
-
+   
+   
+   
 2.使用   
 -------   
    
@@ -98,10 +98,10 @@ env1
 现在就一个激活了，退出这个激活状态使用`deactivate`命令即可   
    
 其实`virtualenv`的基本使用也就这样简单的命令，只不过这样使用起来不太方便，一般情况都会使用`virtualenvwrapper`来管理`virtualenv`。   
-关于`virtualenvwrapper`的使用请移步[用virtualenvwrapper高效管理Python虚拟环境](/yong-virtualenvwrappergao-xiao-guan-li-pythonxu-ni-huan-jing.html)
+关于`virtualenvwrapper`的使用请移步[用virtualenvwrapper高效管理Python虚拟环境](/yong-virtualenvwrappergao-xiao-guan-li-pythonxu-ni-huan-jing.html)   
    
-    
+   
 ###附:   
-
-   [virtualenv 官方文档](https://virtualenv.readthedocs.org/en/latest/)  
-   [virtualenv 中文文档](http://virtualenv-chinese-docs.readthedocs.org/en/latest/)    
+   
+   [virtualenv 官方文档](https://virtualenv.readthedocs.org/en/latest/)   
+   [virtualenv 中文文档](http://virtualenv-chinese-docs.readthedocs.org/en/latest/)   
