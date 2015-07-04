@@ -4,3 +4,4 @@ cache/
 output/
 develop_server.sh
 Mtheme/
+.python-version
