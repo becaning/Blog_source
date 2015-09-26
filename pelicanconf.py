@@ -10,23 +10,23 @@ SITEURL = 'http://becaning.com'
 PATH = 'content'
 
 # ==========THEME===============
-THEME = 'Mtheme'
+THEME = u'Mtheme'
 
 # THEMECOLOR = '[united | slate | cosmo | cyborg | darkly | flatly | journal | sandstone]'
-THEMECOLOR = 'flatly'
+THEMECOLOR = u'flatly'
 
 # ==========TIMEZONE===============
-TIMEZONE = 'Asia/Shanghai'
-LOCALE = 'zh_CN.UTF-8'
+TIMEZONE = u'Asia/Shanghai'
+LOCALE = u'zh_CN.UTF-8'
 
 DEFAULT_LANG = u'en'
 
 # =======CONTENT==========
-IGNORE_FILES = ['*.i.*','*.swp']
+IGNORE_FILES = ['*.i.md', '*.swp']
 
 
 # ==========多说评论系统===============
-SHORT_NAME = 'becaning'
+SHORT_NAME = u'becaning'
 
 #  Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = None
